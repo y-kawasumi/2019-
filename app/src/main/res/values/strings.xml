@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android testApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button">Button</string>
+    <string name="text">TEXT</string>
+    <string name="setting">setting</string>
+    <string name="title_activity_setting">setting</string>
+    <string name="color_code">Color Code</string>
+    <string name="buttonenable">ButtonEnable</string>
+    <string name="back">Back</string>
+</resources>
